@@ -1,53 +1,53 @@
 {
   "projects": [
     {
-      "id": 0,
+      "id": 1,
       "project_name": "Random Quote Generator",
       "description": "Randomly generates quote both by clicking button and automatically every 20 seconds",
       "technologies": [ "JavaScript", "HTML", "CSS", "Visual Studio", "GitHub" ],
       "live_link": "https://mavaleriano.github.io/Project-1/",
       "github_link": "https://github.com/mavaleriano/Project-1",
-      "image_urls": [ "../images/Proj1Pic1.PNG", "../images/Proj1Pic2.PNG" ]
+      "image_urls": [ "./images/Proj1Pic1.PNG", "../images/Proj1Pic2.PNG" ]
     },
 
     {
-      "id": 1,
+      "id": 2,
       "project_name": "List Pagination and Filtering",
       "description": "Creating pages out of a list and enabling a feature to filter through the list",
       "technologies": [ "JavaScript", "HTML", "CSS", "Visual Studio", "GitHub", "Debugging", "ES2015" ],
       "live_link": "https://mavaleriano.github.io/Project-2/",
       "github_link": "https://github.com/mavaleriano/Project-2",
-      "image_urls": [ "../images/Proj2Pic1.PNG", "../images/Proj2Pic2.PNG", "../images/Proj2Pic3.PNG" ]
+      "image_urls": [ "./images/Proj2Pic1.PNG", "../images/Proj2Pic2.PNG", "../images/Proj2Pic3.PNG" ]
     },
 
     {
-      "id": 2,
+      "id": 3,
       "project_name": "Interactive Form",
       "description": "Filling up form that responds to user input to provide feedback based on that input",
       "technologies": [ "JavaScript", "HTML", "CSS", "Visual Studio", "GitHub", "Debugging", "ES2015", "jQuery", "Regular Expressions" ],
       "live_link": "https://mavaleriano.github.io/Project-3/",
       "github_link": "https://github.com/mavaleriano/Project-3",
-      "image_urls": [ "../images/Proj3Pic1.PNG", "../images/Proj3Pic2.PNG", "../images/Proj3Pic3.PNG", "../images/Proj3Pic4.PNG" ]
+      "image_urls": [ "./images/Proj3Pic1.PNG", "../images/Proj3Pic2.PNG", "../images/Proj3Pic3.PNG", "../images/Proj3Pic4.PNG" ]
     },
 
     {
-      "id": 3,
+      "id": 4,
       "project_name": "Object-Oriented Programming Game Show App",
       "description": "Game to guess letters on a randomly generated quote",
       "technologies": [ "Object-Oriented JavaScript", "HTML", "CSS", "Visual Studio", "GitHub", "Debugging", "ES2015", "jQuery", "Callback Functions", "Array Iteration" ],
       "live_link": "https://mavaleriano.github.io/Project-4/",
       "github_link": "https://github.com/mavaleriano/Project-4",
-      "image_urls": [ "../images/Proj4Pic1.PNG", "../images/Proj4Pic2.PNG", "../images/Proj4Pic3.PNG" ]
+      "image_urls": [ "./images/Proj4Pic1.PNG", "../images/Proj4Pic2.PNG", "../images/Proj4Pic3.PNG" ]
     },
 
     {
-      "id": 4,
+      "id": 5,
       "project_name": "Public API Requests",
       "description": "Requesting information from an API and displaying it for user where they can choose to view specific contact card",
       "technologies": [ "Object-Oriented JavaScript", "HTML", "CSS", "Visual Studio", "GitHub", "Debugging", "ES2015", "jQuery", "AJAX/Fetch API", "Terminal" ],
       "live_link": "https://mavaleriano.github.io/Project-5/",
       "github_link": "https://github.com/mavaleriano/Project-5",
-      "image_urls": [ "../images/Proj5Pic1.PNG", "../images/Proj5Pic2.PNG" ]
+      "image_urls": [ "./images/Proj5Pic1.PNG", "../images/Proj5Pic2.PNG" ]
     }
   ]
 }
