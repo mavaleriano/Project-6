@@ -42,6 +42,8 @@ app.use((err, req, res, next) => {
         res.status(err.status);
     else
         res.status(500);
+    //const img404 = Math.floor((Math.random() * 2) + 1);
+
     res.render('error', err);
 })
 
