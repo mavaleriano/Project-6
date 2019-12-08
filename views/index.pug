@@ -21,7 +21,7 @@ block content
       //- Here's what the Pug for each project example should look like. 
       each proj in projects
           .cell
-            a(href=`${proj.id}`)
-              img.thumbnail(src=`images/Proj${proj.id}Pic1.PNG`)
+            a(href=`${proj.id}`, target="_blank")
+              img.thumbnail(src=`images/Proj${proj.id}Main.PNG`)
               h5 #{proj.project_name}
       
